@@ -1,5 +1,5 @@
 # Cura-Slicer-Profile
-![logo](cura-128.png)
+![logo](cura-128.png?style=centerme)
 
 
 Cura Plugins:
