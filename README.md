@@ -2,7 +2,7 @@
 ![logo](cura-128.png)
 
 <p align="center" width="100%">
-    <img width="10%" src="https://github.com/livioavalle/Cura-Slicer-Profile/blob/main/cura-128.png"> 
+    <img width="10%" src="https://raw.githubusercontent.com/livioavalle/Cura-Slicer-Profile/main/cura-128.png?token=ADAC7K7RIKTJLM737MVJOTDACBBKC"> 
 </p>
 
 
