@@ -1,6 +1,10 @@
 # Cura-Slicer-Profile
 ![logo](cura-128.png)
 
+<p align="center">
+    <img src="./cura-128.png" alt="Icon">
+</p>
+
 
 Cura Plugins:
 - HTMLCuraSettings
