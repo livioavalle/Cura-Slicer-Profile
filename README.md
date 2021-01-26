@@ -10,7 +10,7 @@
 - OctoPrintPlugin
 - TabAntiWarping
 ## Materials
-- [3dcolors](materials_data/)
-- Prusament
+- [3dcolors](materials_data/3dcolors/)
+- [Prusament](materials_data/prusament/)
 
 ## Printers
