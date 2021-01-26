@@ -5,7 +5,7 @@
 </p>
 
 
-## Cura Plugins:
+## Cura Plugins
 - HTMLCuraSettings
 - ImportExportProfiles
 - OctoPrintPlugin
