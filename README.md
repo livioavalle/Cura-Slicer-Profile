@@ -1,7 +1,7 @@
 # Cura-Slicer-Profile
 
 <p align="center">
-    <img src="./cura-128.png" alt="Icon">
+    <img src="./cura-128.svg" alt="Icon">
 </p>
 
 
