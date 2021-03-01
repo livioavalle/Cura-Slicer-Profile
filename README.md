@@ -26,3 +26,7 @@
 - [Prusament](materials_data/prusament/)
 
 ## Printers
+## Firmware
+## Custom G-Code
+### Start G-Code
+### End G-Code
