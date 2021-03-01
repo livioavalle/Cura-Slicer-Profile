@@ -27,7 +27,18 @@
 
 ## Printers
 ### Creality Ender3 V2
-
+#### Printer Settings
+X Width: 220 mm
+Y Depth: 220 mm
+Z Height: 250 mm
+Bed Shape: Rectangular
+Firmware type: Marlin
+#### Printhead Settings
+X min: -26 mm
+Y min: -32 mm
+X max: 32 mm 
+Y max: 34 mm
+Gantry Heigth: 25 mm
 ## Firmware
 ## Custom G-Code
 ### Start G-Code
